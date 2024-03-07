@@ -30,7 +30,7 @@ canv.drawImage(photo,0,0);
 function DrawText(canv,fillcolor) {
     canv.fillStyle = fillcolor; 
     canv.textBaseline = 'middle';
-    canv.font = " 23px Aref Ruqaa";
+    canv.font = " 20px aktiv-grotesk-arabic ";
 }
 function DynamicText(canv,photo,clr,x,y) {
   document.getElementById('name').addEventListener('keyup', function() {
