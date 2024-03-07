@@ -29,7 +29,7 @@ Colors:
 - Buttons, icons - blue #4555d2
 - Buttons, icons, bullets - red #cc2973
 ******************************************/
-
+@import url(https://fonts.googleapis.com/css?family=Aref+Ruqaa);
 
 /**************************/
 /*     General Styles     */
@@ -1199,9 +1199,7 @@ margin-left: 10px;
   text-align: center;
   color: #000;
    width:350px;
-   font-family: aktiv-grotesk-arabic, sans-serif;
-font-style: normal;
-font-weight: 100;   
+   
     
 }
 .controls__btn {
